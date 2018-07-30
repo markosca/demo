@@ -1,0 +1,34 @@
+{
+    "id": 5,
+    "message": "Se ha encontrado el jugador correctamente.",
+    "name": "DiegoFigu",
+    "description": "El handicap no existe, son los padres",
+    "email": "diegoelfigura@hotmail.com",
+    "date_inscription": "11/Mar/2018",
+    "club": "Wild Gaming",
+    "ranking": {
+        "rating": 99,
+        "points": 5182,
+        "category": "Oro",
+        "category_color": "DARK_ORANGE",
+        "position": 2
+    },
+    "stats": {
+        "wins": 63,
+        "draws": 4,
+        "loss": 17
+    },
+    "evaluations": {
+        "honor": 5,
+        "sportmanship": 5,
+        "connection": 5
+    },
+    "socials": {
+        "twitter": "https://www.twitter.com/@DiegoFigu",
+        "youtube": "https://www.youtube.com/channel/UCMxSHTAZjsb1dUKwLBw7Niw"
+    },
+    "sf_urls": {
+        "profile": "https://www.somosfifans.com/jugador/DiegoFigu",
+        "picture": "https://www.somosfifans.com/uploads/user/5/avatar/DiegoFigu.png"
+      }
+}
