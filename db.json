@@ -13,11 +13,6 @@
         "category_color": "DARK_ORANGE",
         "position": 2
     },
-    "stats": {
-        "wins": 63,
-        "draws": 4,
-        "loss": 17
-    },
     "evaluations": {
         "honor": 5,
         "sportmanship": 5,
